@@ -10,3 +10,4 @@ silver
 beige
 violet
 indigo
+lavender
